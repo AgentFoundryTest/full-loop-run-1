@@ -1,6 +1,41 @@
-# Agent Foundry Template (replace with project name)
+# full-loop-run-1
 
-Template README to persist license, contribution rules, and author throughout agent foundry projects. This sentence and the main title can be changed but permanents and below should be left alone.
+A single-page React application built with Vite and TypeScript.
+
+## Quick Start
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
+
+# Lint code
+npm run lint
+```
+
+## Tech Stack
+
+- **React 19** - UI framework
+- **TypeScript** - Type safety
+- **Vite** - Build tool and dev server
+- **ESLint** - Code linting
+
+## Project Structure
+
+- `src/` - Source code
+  - `main.tsx` - Application entry point
+  - `App.tsx` - Main app component
+- `public/` - Static assets
+- `index.html` - HTML entry point
+- `dist/` - Production build output (generated)
 
 
 
