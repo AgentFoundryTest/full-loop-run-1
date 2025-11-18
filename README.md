@@ -1,6 +1,6 @@
-# Agent Foundry Template (replace with project name)
+# Personal Website
 
-Template README to persist license, contribution rules, and author throughout agent foundry projects. This sentence and the main title can be changed but permanents and below should be left alone.
+Vite React TypeScript single-page application.
 
 
 
