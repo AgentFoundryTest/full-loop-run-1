@@ -1,6 +1,13 @@
-# Agent Foundry Template (replace with project name)
+# React + TypeScript + Vite Single Page Application
 
-Template README to persist license, contribution rules, and author throughout agent foundry projects. This sentence and the main title can be changed but permanents and below should be left alone.
+A static React SPA built with Vite and TypeScript for modern web development.
+
+## Development
+
+- `npm run dev` - Start the development server at http://localhost:5173
+- `npm run build` - Build for production (outputs to `dist/`)
+- `npm run preview` - Preview the production build
+- `npm run lint` - Run ESLint
 
 
 
